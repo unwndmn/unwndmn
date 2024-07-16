@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>GT Glasses ID</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/GTG/Black & Blue Minimalist Modern Initial Font Logo_20240714_235412_0000.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+</head>
+
+<body class="index-page">
+
+  <header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center">
+
+      <a href="index.html" class="logo d-flex align-items-center me-auto">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="assets/img/logo.png" alt=""> -->
+        <h1 class="sitename">GT Glasses
+        </h1>
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="#hero" class="active">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+      <a class="btn-getstarted" href="https://shopee.co.id/galangputra756?tab=shop" target="_blank">Get The Glasses</a>
+
+    </div>
+  </header>
+
+  <main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section dark-background">
+
+      <div class="container">
+        <div class="row gy-4">
+          <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="zoom-out">
+            <h1>Selamat Datang di Laman Resmi GT GLASSES</h1>
+            <p>Kami Menyediakan Berbagai Macam Produk Optik</p>
+            <div class="d-flex">
+            </div>
+            
+          </div>
+          <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="200">
+            <img src="assets/GTG/gt.png" class="img-fluid animated" alt="" width="520px">
+          </div>
+        </div>
+      </div>
+
+    </section><!-- /Hero Section -->
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>About Us</h2>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
+            <p>
+              GT Glasses merupakan toko kacamata yang menyediakan berbagai macam kebutuhan seperti:
+            </p>
+            <ul>
+              <li><i class="bi bi-check2-circle"></i> <span>Frame kacamata dengan bermacam-macam model.</span></li>
+              <li><i class="bi bi-check2-circle"></i> <span>Lensa rabun jauh, rabun dekat, dan silinder.</span></li>
+              <li><i class="bi bi-check2-circle"></i> <span>Lensa modifikasi untuk membantu kegiatan sehari-hari.</span></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+            <p>Beragam produk optik eksklusif dan telah teruji kualitasnya. Didirikan pada tahun 2023, GT Glasses telah menggapai berbagai kalangan masyarakat.</p>
+            <p>Temukan kami di:</p>
+            <div class="social">
+              <a href="https://www.facebook.com/share/tw4REMf961cyWL5V/?mibextid=qi2Omg" target="_blank" ><i class="bi bi-cart3"></i></a>
+              <a href="https://www.instagram.com/gallang_ts?igsh=bTdlbTR0MDlpYjJi" target="_blank" ><i class="bi bi-instagram"></i></a>
+              <a href="https://www.tiktok.com/@galangputra75587?_t=8o1Mhb8UxIF&_r=1" target="_blank" ><i class="bi bi-tiktok"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- /About Section -->
+
+    <!-- Services Section -->
+    <section id="services" class="services section light-background">
+
+      <!-- Section Title -->
+      <div class="container section-title">
+        <h2>Services</h2>
+        <p>GT Glasses menyediakan:</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+        <div class="row gy-4">
+          <div class="col-xl-3 col-md-6 d-flex">
+            <div class="service-item position-relative">
+              <img src="assets/GTG/frame.jpg" width="219px" height="219px">
+              <h2></h2>
+              <h4><a class="stretched-link">Frame</a></h4>
+              <p>IDR.99-250K</p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-item position-relative">
+              <img src="assets/GTG/crmc.jpg" width="219px" height="219px">
+              <h2></h2>
+              <h4><a class="stretched-link">Lensa CRMC</a></h4>
+              <p>IDR.125K</p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-item position-relative">
+              <img src="assets/GTG/blry.jpg" width="219px" height="219px">
+              <h2></h2>
+              <h4><a class="stretched-link">Lensa Blue-Ray</a></h4>
+              <p>IDR.175K</p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-item position-relative">
+              <img src="assets/GTG/phtcrm.jpg" width="219px" height="219px">
+              <h2></h2>
+              <h4><a class="stretched-link">Lensa Photocromic</a></h4>
+              <p>IDR.185K</p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-item position-relative">
+              <img src="assets/GTG/blcrm.jpg" width="219px" height="219px">
+              <h2></h2>
+              <h4><a class="stretched-link">Lensa Bluecromic</a></h4>
+              <p>IDR.250K</p>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-item position-middle">
+              <img src="assets/GTG/prgrs.jpg" width="219px" height="219px">
+              <h2></h2>
+              <h4><a class="stretched-link">Lensa Progresif</a></h4>
+              <p>IDR.300K</p>
+            </div>
+          </div><!-- End Service Item -->
+        </div> 
+      </div>
+
+    </section><!-- /Services Section -->
+
+    <!-- Call To Action Section -->
+    <section id="call-to-action" class="call-to-action section dark-background">
+
+      <img src="assets/GTG/cta-bg.jpg" alt="">
+
+      <div class="container">
+
+        <div class="row" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-xl-9 text-center text-xl-start">
+            <h3>Pesan Lewat WhatsApp</h3>
+            <p>Pemesanan langsung melalui WhatsApp dapat dilakukan sesuai jam operasional toko.</p>
+          </div>
+          <div class="col-xl-3 cta-btn-container text-center">
+            <a class="cta-btn align-middle" href="https://wa.me/+6285899294097" target="_blank" >Pesan Sekarang</a>
+          </div>
+        </div>
+
+      </div>
+
+    </section><!-- /Call To Action Section -->
+
+    <!-- Team Section -->
+    <section id="team" class="team section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Team</h2>
+        <p></p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="team-member d-flex align-items-start">
+              <div class="pic"><img src="assets/GTG/IMG_20240709_180411.jpg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>Galang Tirta Syahputra</h4>
+                <span>Chief Executive Officer</span>
+                <p>Social Media</p>
+                <div class="social">
+                  <a href="https://www.facebook.com/share/tw4REMf961cyWL5V/?mibextid=qi2Omg" target="_blank" ><i class="bi bi-facebook"></i></a>
+                  <a href="https://www.instagram.com/gallang_ts?igsh=bTdlbTR0MDlpYjJi" target="_blank" ><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.tiktok.com/@galangputra75587?_t=8o1Mhb8UxIF&_r=1" target="_blank" ><i class="bi bi-tiktok"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="team-member d-flex align-items-start">
+              <div class="pic"><img src="assets/GTG/WhatsApp Image 2024-07-15 at 11.29.01.jpeg" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>Evi Supriyanti</h4>
+                <span>Product Manager</span>
+                <p>Social Media</p>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter-x"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                </div>
+              </div>
+            </div>
+          </div> <!--End Team Member -->
+      </div>
+    </section><!-- /Team Section -->
+
+    <!-- Testimonials Section -->
+    <section id="testimonials" class="testimonials section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Testimoni</h2>
+        <p>Terima kasih telah berkunjung ke toko kami</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="swiper init-swiper">
+          <script type="application/json" class="swiper-config">
+            {
+              "loop": true,
+              "speed": 800,
+              "autoplay": {
+                "delay": 5000
+              },
+              "slidesPerView": "auto",
+              "pagination": {
+                "el": ".swiper-pagination",
+                "type": "bullets",
+                "clickable": true
+              }
+            }
+          </script>
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testi/WhatsApp Image 2024-07-09 at 21.33.02 (1).jpeg" class="testimonial-img" alt="">
+                <h3></h3>
+                <h4></h4>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testi/WhatsApp Image 2024-07-09 at 21.33.02 (2).jpeg" class="testimonial-img" alt="">
+                <h3></h3>
+                <h4></h4>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testi/WhatsApp Image 2024-07-09 at 21.33.02.jpeg" class="testimonial-img" alt="">
+                <h3></h3>
+                <h4></h4>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testi/WhatsApp Image 2024-07-09 at 21.33.03 (1).jpeg" class="testimonial-img" alt="">
+                <h3></h3>
+                <h4></h4>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testi/WhatsApp Image 2024-07-09 at 21.33.03 (2).jpeg" class="testimonial-img" alt="">
+                <h3></h3>
+                <h4></h4>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testi/WhatsApp Image 2024-07-09 at 21.33.03.jpeg" class="testimonial-img" alt="">
+                <h3></h3>
+                <h4></h4>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testi/WhatsApp Image 2024-07-09 at 21.33.04 (1).jpeg" class="testimonial-img" alt="">
+                <h3></h3>
+                <h4></h4>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item">
+                <img src="assets/testi/WhatsApp Image 2024-07-09 at 21.33.04.jpeg" class="testimonial-img" alt="">
+                <h3></h3>
+                <h4></h4>
+                <div class="stars">
+                  <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+      </div>
+
+    </section><!-- /Testimonials Section -->
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Contact</h2>
+        <p>Anda dapat menghubungi kami di:</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-5">
+
+            <div class="info-wrap">
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+                <i class="bi bi-geo-alt flex-shrink-0"></i>
+                <div>
+                  <h3>Address</h3>
+                  <p>Pusat Grosir Senen Jaya Lt.2, Jembatan Multiguna L2/F3-16-Jakarta Pusat</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                <i class="bi bi-telephone flex-shrink-0"></i>
+                <div>
+                  <h3>Call Us</h3>
+                  <p>087784653158</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+                <i class="bi bi-envelope flex-shrink-0"></i>
+                <div>
+                  <h3>Email Us</h3>
+                  <p>gtglassesid@gmail.com</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.671300269133!2d106.839242!3d-6.1747418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f5cadb14b25b%3A0x2fc4d24400fb08e0!2sPusat%20Grosir%20Senen%20Jaya!5e0!3m2!1sen!2sid!4v1721019626882!5m2!1sen!2sid" width="400" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+          </div>
+
+          <div class="col-lg-7">
+            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
+              <div class="row gy-4">
+
+                <div class="col-md-6">
+                  <label for="name-field" class="pb-2">Your Name</label>
+                  <input type="text" name="name" id="name-field" class="form-control" required="">
+                </div>
+
+                <div class="col-md-6">
+                  <label for="email-field" class="pb-2">Your Email</label>
+                  <input type="email" class="form-control" name="email" id="email-field" required="">
+                </div>
+
+                <div class="col-md-12">
+                  <label for="subject-field" class="pb-2">Subject</label>
+                  <input type="text" class="form-control" name="subject" id="subject-field" required="">
+                </div>
+
+                <div class="col-md-12">
+                  <label for="message-field" class="pb-2">Message</label>
+                  <textarea class="form-control" name="message" rows="10" id="message-field" required=""></textarea>
+                </div>
+
+                <div class="col-md-12 text-center">
+                  <div class="loading">Loading</div>
+                  <div class="error-message"></div>
+                  <div class="sent-message">Your message has been sent. Thank you!</div>
+
+                  <button type="submit">Send Message</button>
+                </div>
+
+              </div>
+            </form>
+          </div><!-- End Contact Form -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Contact Section -->
+
+  </main>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
